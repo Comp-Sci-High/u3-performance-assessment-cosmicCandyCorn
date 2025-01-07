@@ -1,3 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/HARs_Oy5)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17629840&assignment_repo_type=AssignmentRepo)
-# node-template
+Why did you pick this API topic?
+ I picked this topic because i love ice cream, and when you really think about it like dont we all??? So i picked something relatable.
+
+Describe your API and the available data endpoints
+My Api is an ice cream Api and the available endpoints are /classic, /nutty, /sorbet, /dessert, and /topten
+
+How was your experience building your own API server after using other APIs as a client in Unit 2?
+I feel like it was more fun making my own Api. Using it as a client was so hard and i didnt like how often the api keys would expire
